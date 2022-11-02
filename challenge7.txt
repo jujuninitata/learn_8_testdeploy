@@ -1,0 +1,7 @@
+yarn create react-app Challenge_7
+yarn add react-router-dom
+
+buat routing file --> buat folder route di dalam folder src dan buat file routes.js
+set-up routing--> di file index.js di dalam folder SRC
+
+yarn add axios
